@@ -166,3 +166,5 @@ tests/Feature/AcademyTest.php            tests automatiques
 ## 7. Et l'application mobile ?
 
 Le site fonctionne déjà parfaitement sur téléphone. Pour une application Android/iOS, la voie la plus simple est d'emballer le site (WebView, ou une PWA publiée avec Bubblewrap/TWA) : la connexion, la suppression du compte et les pages légales exigées par Google sont déjà là. Pour une application native (Flutter, React Native), il faudra ajouter une API (Laravel Sanctum) au même projet.
+
+# fabara-academie
